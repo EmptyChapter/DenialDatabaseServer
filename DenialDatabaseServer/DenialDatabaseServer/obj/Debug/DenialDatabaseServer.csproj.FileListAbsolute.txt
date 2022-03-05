@@ -1,0 +1,17 @@
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\bin\Debug\DenialDatabaseServer.exe.config
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\bin\Debug\APIDocumentation.xml
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\bin\Debug\DenialDatabaseServer.exe
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\bin\Debug\DenialDatabaseServer.pdb
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.csproj.AssemblyReference.cache
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.csproj.SuggestedBindingRedirects.cache
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\MainWindow.g.cs
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\App.g.cs
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer_MarkupCompile.cache
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer_MarkupCompile.lref
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\MainWindow.baml
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.g.resources
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.Properties.Resources.resources
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.csproj.GenerateResource.cache
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.csproj.CoreCompileInputs.cache
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.exe
+F:\Denial\DenialDatabaseServer\DenialDatabaseServer\obj\Debug\DenialDatabaseServer.pdb

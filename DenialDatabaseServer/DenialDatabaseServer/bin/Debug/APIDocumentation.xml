@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DenialDatabaseServer</name>
+    </assembly>
+    <members>
+        <member name="T:DenialDatabaseServer.App">
+            <summary>
+            Application core
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:DenialDatabaseServer.App.OnStartup(System.Windows.StartupEventArgs)">
+            <summary>
+            Raises on <see cref="E:System.Windows.Application.Startup"/> event
+            </summary>
+            <param name="e">Startup arguments</param>
+        </member>
+        <member name="M:DenialDatabaseServer.App.OnExit(System.Windows.ExitEventArgs)">
+            <summary>
+            Raises on <see cref="E:System.Windows.Application.Exit"/> event
+            </summary>
+            <param name="e">Exit arguments</param>
+        </member>
+        <member name="M:DenialDatabaseServer.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:DenialDatabaseServer.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:DenialDatabaseServer.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:DenialDatabaseServer.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DenialDatabaseServer.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DenialDatabaseServer.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
